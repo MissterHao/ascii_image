@@ -4,10 +4,10 @@ from setuptools import setup
 
 setup(
     name='ascii_image',
-    version='1.1',
+    version='1.2.1',
     description='Make any image file to ascii art format.',
     long_description=open(
-        os.path.join(os.path.dirname(__file__), "README.md"),
+        os.path.join(os.path.abspath(os.path.dirname(__file__)), "README.md"),
         "r",
         encoding="utf-8"
     ).read(),
