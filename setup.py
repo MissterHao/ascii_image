@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='ascii_image',
-    version='1.0',
+    version='1.1',
     description='Make any image file to ascii art format.',
     long_description=open(
         os.path.join(os.path.dirname(__file__), "README.md"),
