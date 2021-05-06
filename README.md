@@ -11,7 +11,7 @@ Turn the image into ASCII-art format text file.
 To install , simply use pip of course):
 安裝方法，只要使用 pip 安裝即可。
 ```{.sourceCode .bash}
-$ pip install requests
+$ pip install ascii_image
 ```
 
 ## Usage
