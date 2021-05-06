@@ -3,13 +3,14 @@ ascii-art
 ![image](https://img.shields.io/pypi/v/ascii_image.svg)
 ![image](https://img.shields.io/pypi/l/ascii_image.svg)
 ![image](https://img.shields.io/pypi/pyversions/ascii_image.svg)
+[![Downloads](https://static.pepy.tech/personalized-badge/ascii-image?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/ascii-image)
 
 將所有圖片轉換成 ASCII-art 形式的文字檔。  
-Turn the image into ASCII-art format text file.
+Turn the image into ASCII-art format text file.  
 
 ## Installation
-To install , simply use pip of course):
-安裝方法，只要使用 pip 安裝即可。
+To install, simply use pip of course):  
+安裝方法，只要使用 pip 安裝即可。  
 ```{.sourceCode .bash}
 $ pip install ascii_image
 ```
